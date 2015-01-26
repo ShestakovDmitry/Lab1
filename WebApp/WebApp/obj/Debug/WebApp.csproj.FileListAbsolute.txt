@@ -4,3 +4,9 @@ C:\Users\Dima\Documents\Visual Studio 2013\Projects\WebApp\WebApp\bin\WebApp.pdb
 C:\Users\Dima\Documents\Visual Studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
 C:\Users\Dima\Documents\Visual Studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.dll
 C:\Users\Dima\Documents\Visual Studio 2013\Projects\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\Dima\Documents\GitHub\Lab1\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\Dima\Documents\GitHub\Lab1\WebApp\WebApp\bin\WebApp.dll
+C:\Users\Dima\Documents\GitHub\Lab1\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\Dima\Documents\GitHub\Lab1\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\GitHub\Lab1\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\Dima\Documents\GitHub\Lab1\WebApp\WebApp\obj\Debug\WebApp.pdb
